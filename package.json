@@ -1,0 +1,23 @@
+{
+  "name": "leap-year",
+  "version": "0.1.0",
+  "description": "get any leap year you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioMillanV/printr.git"
+  },
+  "keywords": [
+    "bisiesto",
+    "leap-year"
+  ],
+  "author": "antonio.millan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioMillanV/printr/issues"
+  },
+  "homepage": "https://github.com/AntonioMillanV/printr#readme"
+}
